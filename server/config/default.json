@@ -1,0 +1,9 @@
+{
+  "DB": {
+    "dialect": "sqlite",
+    "storage": "./data/sqlite.db"
+  },
+  "Server": {
+    "port": 8000
+  }
+}

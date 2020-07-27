@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "1.19.0",
+    "bunyan": "1.8.12",
+    "compression": "1.7.4",
+    "config": "3.2.3",
+    "dotenv": "latest",
+    "express": "4.17.1",
+    "express-jwt": "5.3.1",
+    "jwks-rsa": "1.6.0",
+    "nodemailer": "6.3.0",
+    "path": "0.12.7",
+    "require": "2.4.20",
+    "sequelize": "5.19.3",
+    "sqlite3": "4.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
