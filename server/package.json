@@ -11,7 +11,7 @@
     "express": "4.17.1",
     "express-jwt": "5.3.1",
     "jwks-rsa": "1.6.0",
-    "nodemailer": "6.3.0",
+    "nodemailer": "6.4.16",
     "path": "0.12.7",
     "require": "2.4.20",
     "sequelize": "5.19.3",
