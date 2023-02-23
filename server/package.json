@@ -14,7 +14,7 @@
     "nodemailer": "6.3.0",
     "path": "0.12.7",
     "require": "2.4.20",
-    "sequelize": "5.19.3",
+    "sequelize": "6.28.2",
     "sqlite3": "4.1.0"
   },
   "scripts": {
